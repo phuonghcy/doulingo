@@ -10,9 +10,6 @@
 ## ĐỒ ÁN MÔN HỌC
 * Tên đồ án: **Mô phỏng ứng dụng học Tiếng Anh trực tuyến DUOLINGO**
 
-## GIẢNG VIÊN HƯỚNG DẪN
-* **ThS. Võ Ngọc Tân**
-
 ## CÁC CÔNG NGHỆ SỬ DỤNG
 Xamarin, XAML, C#, SQL Server.
 
